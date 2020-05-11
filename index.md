@@ -16,7 +16,7 @@ hide_description: true
 ---
 
 
-### Hi! I'm Abir.
+## Hi! I'm Abir.
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/), a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/). I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/) with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/).
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
@@ -27,6 +27,7 @@ I am passionate about traveling and photography. Backpacking through Western Eur
 
 
 # Research
+---
 
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**
 *Mentor: [Dr. Anne Marie Piper](https://ampiper.soc.northwestern.edu/)*
@@ -45,6 +46,7 @@ In this project sponsored by  [Toyota Collaborative Safety Research Center](http
 **Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html)] [[Toyota](http://toyotanews.pressroom.toyota.com/releases/toyotas+collaborative+safety+research+center+launches+new+research+tracks+study+autonomous.htm)]**
 
 # Publications
+---
 
 **Peer-reviewed  Conference Papers**
  - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed, “From ​Research ​to Practice: ​Informing ​the ​Design ​of Autism ​Support ​Smart ​Technology,” in *the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, 2018.
@@ -56,6 +58,8 @@ In this project sponsored by  [Toyota Collaborative Safety Research Center](http
  - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin, “Cognitive Radio Network with Coordinated Multipoint Joint Transmission,” in *International Journal of Communication Systems (IJCS)*, March 2017. [**DOI:**  [10.1002/dac.3310](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract)]
 
 # Contact Me
+---
+
 **Office Address:**
 Northwestern University  
 Frances Searle Building  #1-175  
