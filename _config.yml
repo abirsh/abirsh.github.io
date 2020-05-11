@@ -149,10 +149,7 @@ hydejack:
   # If you do not use Google Fonts, set to `true`.
   no_google_fonts:     false
 
-  # Set to `true` if you don't want to show an 
-  
-  
-  indicating external links
+  # Set to `true` if you don't want to show an indicating external links
   no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
