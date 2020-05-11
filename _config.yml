@@ -31,7 +31,8 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
   "Abir Saha".
-  Open `_config.yml` \n to edit this text.
+  Open `_config.yml`
+  to edit this text.
 
 # A list of keywords for your blog
 keywords:              []
