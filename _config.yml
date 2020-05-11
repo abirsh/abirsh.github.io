@@ -27,8 +27,10 @@ description:           >
   Abir Saha - Personal Website
 
 # A shorter description for the sidebar.
-tagline:               >
-  HCI, Accessibility, Assistive Technology
+tagline:               |
+  HCI, Accessibility, 
+  
+  Assistive Technology
 
 # A list of keywords for your blog
 keywords:              []
@@ -40,8 +42,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Abir> <Saha>
+  email:               <abirsaha056@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -79,7 +81,7 @@ paginate_path:         /page-:num/
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/img/sidebar-bg.jpg
 accent_image:          none
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(0, 106, 194)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -154,7 +156,7 @@ hydejack:
   no_push_state:       false
 
   # Set to `true` if you want to disable the drawer
-  no_drawer:           false
+  no_drawer:           true
 
   # Set to `true` to prevent usage of `hy-img` (lazy-loading images).
   no_img:              false
