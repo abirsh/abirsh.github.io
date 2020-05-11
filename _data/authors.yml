@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Abir> <Saha>
+  email:             <abirsaha056@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
