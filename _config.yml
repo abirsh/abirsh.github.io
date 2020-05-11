@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About Me
+    url:               /#
   - title:             Research
     url:               /#research
   - title:             Publications
