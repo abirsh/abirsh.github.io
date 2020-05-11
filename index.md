@@ -1,12 +1,11 @@
 ---
 layout: page
 name: index
-title: null
+title: Hi! I'm Abir.
 description: >
   Welcome to my website.
 hide_description: true
 ---
-## Hi! I'm Abir.
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/), a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/). I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/) with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/).
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/).
