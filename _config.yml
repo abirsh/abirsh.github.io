@@ -29,14 +29,9 @@ description:           >
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
-tagline:               |+
-  PhD Student
-  
-  
-  Technology and Social Behavior
-  
-  
-  Northwestern University
+tagline:               "PhD Student,
+  \n
+  Technology and Social Behavior, Northwestern University"
 
 # A list of keywords for your blog
 keywords:              []
