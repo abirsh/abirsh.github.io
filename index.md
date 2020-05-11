@@ -6,7 +6,6 @@ description: >
   Welcome to my website.
 hide_description: true
 ---
-
 ## Hi! I'm Abir.
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/), a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/). I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/) with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/).
 
