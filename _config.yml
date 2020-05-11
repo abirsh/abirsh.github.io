@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 Abir Saha
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,10 +29,13 @@ description:           >
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
-tagline:               >
-  "Abir Saha".
+tagline:               |+
   PhD Student
+  
+  
   Technology and Social Behavior
+  
+  
   Northwestern University
 
 # A list of keywords for your blog
