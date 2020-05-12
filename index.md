@@ -21,8 +21,8 @@ I am passionate about traveling and photography. Backpacking through Western Eur
 ---
 # Research
 
-**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**
 
+**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**
 *Mentor: [Dr. Anne Marie Piper](https://ampiper.soc.northwestern.edu/){:target="_blank"}*
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
