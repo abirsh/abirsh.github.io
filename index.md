@@ -1,7 +1,7 @@
 ---
 layout: page
 name: index
-title: none
+title:
 description: >
   Welcome to my website.
 hide_description: true
