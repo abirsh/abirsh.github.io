@@ -22,18 +22,21 @@ I am passionate about traveling and photography. Backpacking through Western Eur
 # Research
 
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**
+
 *Mentor: [Dr. Anne Marie Piper](https://ampiper.soc.northwestern.edu/){:target="_blank"}*
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
 {: .text-justify}
 <br/>
 **AUTISM SUPPORT SMART TECHNOLOGY FOR CHILDREN**    
+
 *Mentors:  [Dr. Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Dr. Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
 
 In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.
 {: .text-justify}
 <br/>
 **DEVELOPMENT OF TESTING METHODS FOR ROAD DEPARTURE WARNING SYSTEMS**  
+
 *Mentor:  [Dr. Stanley Chien](http://www.engr.iupui.edu/main/people/detail.php?id=schien){:target="_blank"}*
 
 In this project sponsored by  [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing methods and scenarios to evaluate the performance of Road Departure Mitigation systems of autonomous vehicles.
