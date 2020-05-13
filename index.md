@@ -34,19 +34,19 @@ In this project, we did a systematic literature review and qualitative coding of
 *Advisor: [Stanley Chien](http://www.engr.iupui.edu/main/people/detail.php?id=schien){:target="_blank"}*
 
 In this project sponsored by  [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing methods and scenarios to evaluate the performance of Road Departure Mitigation systems of autonomous vehicles.  
-Press release: [**[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}**]
+Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
 
 ---
 # Publications
 
 **Peer-reviewed  Conference Papers**
- - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. From Research to Practice: Informing the Design of Autism Support Smart Technology. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[**Link**](https://dl.acm.org/doi/10.1145/3359293){:target="_blank"}]
- - **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[**Link**](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]  
+ - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. From Research to Practice: Informing the Design of Autism Support Smart Technology. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[Link](https://dl.acm.org/doi/10.1145/3359293){:target="_blank"}]
+ - **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[Link](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]  
 <br>
 
 **Journal Articles**
 
- - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[**Link**](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]  
+ - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Link](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]  
 
 ---
 # Contact Me
