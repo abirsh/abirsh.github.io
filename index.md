@@ -3,11 +3,11 @@ layout: page
 name: index
 title:
 description: >
-  Welcome to my website.
+  Personal Website of Abir Saha
 hide_description: true
 ---
 
-# Hi! I'm Abir
+# Hi! I'm Abir.
 
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
 
@@ -21,17 +21,17 @@ I am passionate about traveling and photography. Backpacking through Western Eur
 # Research
 
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Mentor: [Dr. Anne Marie Piper](https://ampiper.soc.northwestern.edu/){:target="_blank"}*
+*Advisor: [Anne Marie Piper](https://ampiper.soc.northwestern.edu/){:target="_blank"}*
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.  
 <br/>
-**AUTISM SUPPORT SMART TECHNOLOGY FOR CHILDREN**    
-*Mentors:  [Dr. Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Dr. Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
+**DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
+*Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
 
 In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
 <br/>
 **DEVELOPMENT OF TESTING METHODS FOR ROAD DEPARTURE WARNING SYSTEMS**  
-*Mentor:  [Dr. Stanley Chien](http://www.engr.iupui.edu/main/people/detail.php?id=schien){:target="_blank"}*
+*Advisor: [Stanley Chien](http://www.engr.iupui.edu/main/people/detail.php?id=schien){:target="_blank"}*
 
 In this project sponsored by  [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing methods and scenarios to evaluate the performance of Road Departure Mitigation systems of autonomous vehicles.  
 Press release: [**[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}**]
@@ -40,13 +40,13 @@ Press release: [**[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-
 # Publications
 
 **Peer-reviewed  Conference Papers**
- - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed, “From ​Research ​to Practice: ​Informing ​the ​Design ​of Autism ​Support ​Smart ​Technology,” in *the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, 2018.
- - **Abir Saha** and Maitraye Das, “Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh”, in  *the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017 [[**PDF**](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]  
+ - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. From Research to Practice: Informing the Design of Autism Support Smart Technology. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[**Link**](https://dl.acm.org/doi/10.1145/3359293){:target="_blank"}]
+ - **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[**Link**](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]  
 <br>
 
 **Journal Articles**
 
- - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin, “Cognitive Radio Network with Coordinated Multipoint Joint Transmission,” in *International Journal of Communication Systems (IJCS)*, March 2017. [[**PDF**](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]  
+ - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[**Link**](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]  
 
 ---
 # Contact Me
