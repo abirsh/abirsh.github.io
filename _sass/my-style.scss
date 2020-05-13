@@ -24,9 +24,15 @@ html {
     font-size: 17px;
 }
 
-//reduce top margin of headings
+//reduce top margin and change color of headings 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading {
-    margin-top: 0;
+    margin-top: 0; 
+    color: black;
+}
+
+//turn body text black
+body {
+    color: black;
 }
 
 //turn footer text black
