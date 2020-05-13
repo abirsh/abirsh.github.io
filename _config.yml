@@ -28,9 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline: |
-  HCI, Accessibility, 
-  
-  Assistive Technology
+  PhD student in Technology and Social Behavior
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,17 +43,17 @@ author:
   name:                <Abir> <Saha>
   email:               <abirsaha056@gmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             abirsaha_
 
 # Add links to the sidebar.
 menu:
-  - title:             About Me
+  - title:             About
     url:               /#
   - title:             Research
     url:               /#research
   - title:             Publications
     url:               /#publications
-  - title:             Contact Me
+  - title:             Contact
     url:               /#contact-me
 
 # Add links to the footer.
@@ -67,7 +65,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020 Abir Saha. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -89,7 +87,7 @@ accent_color:          rgb(0, 106, 194)
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
 #theme_color:           rgb(25,55,71)
-theme_color:           rgb(40, 40, 40)
+theme_color:           rgb(21, 21, 21)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
