@@ -29,7 +29,7 @@ In this project, I'm interested in understanding how people with vision impairme
 In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
 <br/>
 **DEVELOPMENT OF TESTING METHODS FOR ROAD DEPARTURE WARNING SYSTEMS**  
-*Advisor: [Stanley Chien](http://www.engr.iupui.edu/main/people/detail.php?id=schien){:target="_blank"}*
+*Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
 
 In this project sponsored by  [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing methods and scenarios to evaluate the performance of Road Departure Mitigation systems of autonomous vehicles.  
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
