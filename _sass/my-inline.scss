@@ -2,7 +2,7 @@
 
 //collapsible
 .wrap-collabsible {
-  margin-bottom: 1.2rem 0;
+  margin-bottom: 1rem 0;
 }
 
 input[type='checkbox'] {
@@ -17,10 +17,10 @@ input[type='checkbox'] {
   text-transform: uppercase;
   text-align: left;
 
-  padding: 0.5rem;
+  padding: 0.4rem;
 
-  color: #ffffff;
-  background: rgb(40,40,40);
+  color: #000000;
+  background: #f2f2f2;
 
   cursor: pointer;
 
@@ -29,8 +29,8 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #ffffff;
-  background: rgb(20,20,20);
+  color: #000000;
+  background: #e6e6e6;
 }
 
 .lbl-toggle::before {
