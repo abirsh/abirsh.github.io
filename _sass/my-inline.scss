@@ -1,75 +1,75 @@
 // You can add CSS rules here that will be inlined into each document.
 
 //collapsible
-.wrap-collabsible {
-  margin-bottom: 1rem 0;
-}
+// .wrap-collabsible {
+//   margin-bottom: 1rem 0;
+// }
 
-input[type='checkbox'] {
-  display: none;
-}
+// input[type='checkbox'] {
+//   display: none;
+// }
 
-.lbl-toggle {
-  display: block;
+// .lbl-toggle {
+//   display: block;
 
-  font-weight: bold;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  text-align: left;
+//   font-weight: bold;
+//   font-size: 1.2rem;
+//   text-transform: uppercase;
+//   text-align: left;
 
-  padding: 0.4rem;
+//   padding: 0.4rem;
 
-  color: #000000;
-  background: #f2f2f2;
+//   color: #000000;
+//   background: #f2f2f2;
 
-  cursor: pointer;
+//   cursor: pointer;
 
-  border-radius: 7px;
-  transition: all 0.25s ease-out;
-}
+//   border-radius: 7px;
+//   transition: all 0.25s ease-out;
+// }
 
-.lbl-toggle:hover {
-  color: #000000;
-  background: #e6e6e6;
-}
+// .lbl-toggle:hover {
+//   color: #000000;
+//   background: #e6e6e6;
+// }
 
-.lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
+// .lbl-toggle::before {
+//   content: ' ';
+//   display: inline-block;
 
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
+//   border-top: 5px solid transparent;
+//   border-bottom: 5px solid transparent;
+//   border-left: 5px solid currentColor;
+//   vertical-align: middle;
+//   margin-right: .7rem;
+//   transform: translateY(-2px);
 
-  transition: transform .2s ease-out;
-}
+//   transition: transform .2s ease-out;
+// }
 
-.toggle:checked + .lbl-toggle::before {
-  transform: rotate(90deg) translateX(-3px);
-}
+// .toggle:checked + .lbl-toggle::before {
+//   transform: rotate(90deg) translateX(-3px);
+// }
 
-.collapsible-content {
-  max-height: 0px;
-  overflow: hidden;
-  transition: max-height .25s ease-in-out;
-}
+// .collapsible-content {
+//   max-height: 0px;
+//   overflow: hidden;
+//   transition: max-height .25s ease-in-out;
+// }
 
-.toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 100vh;
-}
+// .toggle:checked + .lbl-toggle + .collapsible-content {
+//   max-height: 100vh;
+// }
 
-.toggle:checked + .lbl-toggle {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
+// .toggle:checked + .lbl-toggle {
+//   border-bottom-right-radius: 0;
+//   border-bottom-left-radius: 0;
+// }
 
-.collapsible-content .content-inner {
-  background: #fcfcfc;
-  border-bottom: 1px solid rgb(200, 200, 200);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
-}
+// .collapsible-content .content-inner {
+//   background: #fcfcfc;
+//   border-bottom: 1px solid rgb(200, 200, 200);
+//   border-bottom-left-radius: 7px;
+//   border-bottom-right-radius: 7px;
+//   padding: .5rem 1rem;
+// }
