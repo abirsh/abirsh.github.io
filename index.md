@@ -1,38 +1,11 @@
 ---
 layout: page
 name: index
-title:
+title: Hi! I'm Abir.
 description: >
   Personal Website of Abir Saha
 hide_description: true
 ---
-<div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle" tabindex="0">RECENT NEWS</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        Sample news.
-      </p>
-    </div>
-  </div>
-</div>
-
-<script>
-  let myLabels = document.querySelectorAll('.lbl-toggle');
-  Array.from(myLabels).forEach(label => {
-    label.addEventListener('keydown', e => {
-      // 32 === spacebar
-      // 13 === enter
-      if (e.which === 32 || e.which === 13) {
-        e.preventDefault();
-        label.click();
-      };
-    });
-  });
-</script>
-<br/>
-# Hi, I'm Abir.
 
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
 
