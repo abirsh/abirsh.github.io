@@ -40,7 +40,7 @@ logo:                  /assets/img/abir.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Abir> <Saha>
+  name:                Abir Saha
   email:               <abirsaha056@gmail.com>
   # Used by `jekyll-seo-tag`:
   twitter:             abirsaha_
