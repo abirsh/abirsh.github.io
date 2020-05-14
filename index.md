@@ -7,15 +7,6 @@ description: >
 hide_description: true
 ---
 
-<ul class="collapsible" data-collapsible="accordion">
-  <li>
-    <div class="collapsible-header">RECENT NEWS</div>
-    <div class="collapsible-body">
-      <p>This is dummy text.</p>
-    </div>
-  </li>
-</ul>
-
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu){:target="_blank"} and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/){:target="_blank"}.  
