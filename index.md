@@ -7,6 +7,34 @@ description: >
 hide_description: true
 ---
 
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle" tabindex="0">RECENT NEWS</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+        plug-ins. Test-Driven Development.
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  let myLabels = document.querySelectorAll('.lbl-toggle');
+  Array.from(myLabels).forEach(label => {
+    label.addEventListener('keydown', e => {
+      // 32 === spacebar
+      // 13 === enter
+      if (e.which === 32 || e.which === 13) {
+        e.preventDefault();
+        label.click();
+      };
+    });
+  });
+</script>
+
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu){:target="_blank"} and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/){:target="_blank"}.  
