@@ -55,8 +55,8 @@ menu:
     url:               /#publications
   - title:             Contact
     url:               /#contact-me
-  - title:             Blog
-    url:               /blog
+#   - title:             Blog
+#     url:               /blog
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
