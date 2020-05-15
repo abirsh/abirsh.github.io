@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /#
+    url:               https://abirsh.github.io/#
   - title:             Research
     url:               /#research
   - title:             Publications
