@@ -142,7 +142,7 @@ defaults:
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
 
-# Hydejack Settings
+# Hydejack Settings.
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
