@@ -38,7 +38,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 # Publications
 
 **Peer-reviewed  Conference Papers**
- - **Abir Saha** and Anne Marie Piper. Understanding Audio Production Practices of People with Vision Impairments. To appear in *the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Athens, Greece, October 2020. [[PDF](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}]
+ - **Abir Saha** and Anne Marie Piper. [[Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}]. To appear in *the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Athens, Greece, October 2020.
  - Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. From Research to Practice: Informing the Design of Autism Support Smart Technology. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[Link](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]
  - **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[Link](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]  
 <br>
