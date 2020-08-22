@@ -20,7 +20,7 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
 # Research
 
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisor: [Anne Marie Piper](https://ampiper.soc.northwestern.edu/){:target="_blank"}*
+*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
 
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.  
 <br/>
