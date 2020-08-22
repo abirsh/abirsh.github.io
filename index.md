@@ -3,18 +3,18 @@ layout: page
 name: index
 title:
 description: >
-  Personal Website of Abir Saha
+  Personal Website
 hide_description: true
 ---
 
 
-I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
+Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu){:target="_blank"} and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/){:target="_blank"}.  
 
 My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with vision impairments.  
 
-I am passionate about traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}.
+I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}.
 
 ---
 # Research
