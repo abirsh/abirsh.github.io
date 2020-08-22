@@ -55,3 +55,8 @@ h2.h1 {
 .content a:not(.btn) {
     color: #006ac2;
 }
+
+//give menu items regular weight for v9
+html {
+    --font-weight-heading: 700;
+}
