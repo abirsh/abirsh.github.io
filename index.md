@@ -6,7 +6,7 @@ description: >
   Personal Website of Abir Saha
 hide_description: true
 ---
-## Hi! I'm Abir.
+
 
 I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Dr. Anne Marie Piper](http://ampiper.soc.northwestern.edu/){:target="_blank"}.  
 
