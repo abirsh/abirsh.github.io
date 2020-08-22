@@ -56,6 +56,11 @@ h2.h1 {
     color: #006ac2;
 }
 
+//reduce weight of hyperlink underline
+hy-push-state a {
+    border-bottom: 1px solid;
+}
+
 //give menu items regular weight for v9
 html {
     --font-weight-heading: 400;
