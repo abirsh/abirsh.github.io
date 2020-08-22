@@ -13,6 +13,11 @@
   <changefreq>daily</changefreq>
   <priority>1</priority>
 </url>
+<url>
+  <loc>https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf</loc>
+  <lastmod>2020-08-18T08:12:14+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
 
 
 </urlset>
