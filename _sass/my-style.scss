@@ -36,11 +36,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 500;
 }
 
-//fix black title on v9 theme
-h2.h1 {
-    color: white;
-}
-
 //turn body text black
 body {
     color: black;
@@ -49,4 +44,14 @@ body {
 //turn footer text black
 main>footer {
     color: black;
+}
+
+//fix black title on v9 theme
+h2.h1 {
+    color: white;
+}
+
+//make hyperlinks blue for v9
+.content a:not(.btn) {
+    color: #006ac2;
 }
