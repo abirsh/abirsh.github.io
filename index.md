@@ -1,7 +1,7 @@
 ---
 layout: page
 name: index
-title: none
+title:
 description: >
   Personal Website of Abir Saha
 hide_description: true
