@@ -275,10 +275,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
-url: "https://abirsh.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
-
 # Theme
 # ---------------------------------------------------------------------------------------
 
