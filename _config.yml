@@ -24,7 +24,7 @@ title:                 Abir Saha
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website
+  Personal Website of Abir Saha, PhD Student at Northwestern University
 
 # A shorter description for the sidebar.
 tagline: |
@@ -274,6 +274,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+
+url: "https://abirsh.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
 # Theme
 # ---------------------------------------------------------------------------------------
