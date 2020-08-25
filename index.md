@@ -48,7 +48,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
  - Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Link](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}] 
 <br>
-
+<br>
 
 **Patents**
 
