@@ -19,3 +19,10 @@ Use this add elements to the <body/> of the document.
     } else clearTimeout(scrollAnimation);
 }
 </script>
+
+<script type="text/javascript">
+  var len =  document.getElementsByClassName("no-mark-external").length;
+  for (var i = 0 ; i < len; i++) {
+    document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
+  }
+</script>
