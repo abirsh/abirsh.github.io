@@ -8,9 +8,9 @@ hide_description: true
 ---
 
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at [Northwestern University](http://www.northwestern.edu/){:target="_blank"}. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
+Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at [Indiana University-Purdue University Indianapolis (IUPUI)](http://www.iupui.edu){:target="_blank"} and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at [Bangladesh University of Engineering and Technology (BUET)](http://www.buet.ac.bd/){:target="_blank"}.  
+Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
 My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with vision impairments.  
 
@@ -70,11 +70,9 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 ---
 # Contact Me
 
-**Office Address:**  
 Northwestern University  
 Frances Searle Building  #1-175  
 2240 Campus Drive  
 Evanston, IL 60208, USA
 
-**Email:**  
-<ins>abir [at] u [dot] northwestern [dot] edu<ins/>
+**abir [at] u [dot] northwestern [dot] edu**
