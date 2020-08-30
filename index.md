@@ -19,7 +19,7 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
 ---
 # Research
 
-Current Projects
+**Current Projects**
 {:.lead}
 
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
@@ -28,8 +28,9 @@ Current Projects
 In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.  
 <br/>
 
-Past Projects
+**Past Projects**
 {:.lead}
+
 **DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
 *Advisors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
 
