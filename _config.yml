@@ -47,13 +47,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
+  - title:             ABOUT
     url:               /#top
-  - title:             Research
+  - title:             RESEARCH
     url:               /#research
-  - title:             Publications
+  - title:             PUBLICATIONS
     url:               /#publications
-  - title:             Contact
+  - title:             CONTACT
     url:               /#contact-me
 #   - title:             Blog
 #     url:               /blog
