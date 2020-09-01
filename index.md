@@ -6,7 +6,7 @@ description: >
   Personal Website
 hide_description: true
 ---
-<h1 id="about">About Me<a href="#about" class="permalink"> <span class="sr-only">Permalink</span> <span class="icon-link"></span> </a> </h1>
+<h1 id="about">About Me </h1>
 
 Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
