@@ -12,7 +12,7 @@ Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http:
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
-My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with vision impairments.  
+My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with disabilities.  
 
 I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}.
 
@@ -36,10 +36,10 @@ In this project, I'm interested in understanding how people with vision impairme
 
 In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
 <br/>
-**DEVELOPMENT OF TESTING METHODS FOR ROAD DEPARTURE WARNING SYSTEMS**  
+**DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**  
 *Advisor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
 
-In this project sponsored by  [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing methods and scenarios to evaluate the performance of Road Departure Mitigation systems of autonomous vehicles.  
+In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
 
 ---
