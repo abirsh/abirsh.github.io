@@ -98,7 +98,7 @@ theme_color:           rgb(0, 87, 156)
 
 # my regular font combo
 # google_fonts:          Roboto:700|Roboto:400,400i,700,700i
-google_fonts:          Nunito:600|Nunito:400,400i,600,600i
+google_fonts:          Nunito:600|Nunito:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
