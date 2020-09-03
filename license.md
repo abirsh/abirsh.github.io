@@ -7,7 +7,9 @@ Website contents:
 
 * All rights reserved by Abir Saha. Reproductions without permission are forbidden!
 
-Hydejack requires [placing GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository, so here it is. Also see [notice](https://hydejack.com/NOTICE/).
+---
+
+Hydejack requires [placing GPLv3](https://hydejack.com/CHANGELOG/#license-change){:target="_blank"} in the repository, so here it is. Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
 
 ## GNU GENERAL PUBLIC LICENSE
 
