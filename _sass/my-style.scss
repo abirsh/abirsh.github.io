@@ -72,7 +72,7 @@ h2.h1 {
 
 //reduce weight of hyperlink underline
 hy-push-state a {
-    border-bottom: 1px solid;
+    border-bottom: 0.0625rem solid;
 }
 
 //give menu items regular weight for v9
