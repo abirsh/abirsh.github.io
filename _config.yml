@@ -98,7 +98,7 @@ theme_color:           rgb(0, 87, 156)
 
 # my regular font combo
 # google_fonts:          Roboto:700|Roboto:400,400i,700,700i
-google_fonts:          Nunito:600|Nunito:400,400i,700,700i
+google_fonts:          Nunito+Sans:600|Nunito+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -106,7 +106,7 @@ google_fonts:          Nunito:600|Nunito:400,400i,700,700i
 
 # my regular font combo
 # font:                  Roboto, Helvetica, Arial, sans-serif
-font:                  Nunito, Helvetica, Arial, sans-serif
+font:                  Nunito Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -115,7 +115,7 @@ font:                  Nunito, Helvetica, Arial, sans-serif
 
 # my regular font combo
 # font_heading:          Roboto, Helvetica, Arial, sans-serif
-font_heading:          Nunito, Helvetica, Arial, sans-serif
+font_heading:          Nunito Sans, Helvetica, Arial, sans-serif
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
