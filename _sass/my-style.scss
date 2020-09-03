@@ -34,11 +34,20 @@ p.lead {
     font-size: 1.25rem;
 }
 
-//reduce top margin and change color of headings 
+// reduce top margin and weight of headings
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 0; 
-    color: black;
     font-weight: 500;
+}
+
+// change color of h2 - h6 to pitch black
+h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
+    color: black;
+}
+
+// change color of h1 to blue
+h1, .h1 {
+    color: rgb(1 92 171);
 }
 
 //turn body text black
@@ -58,12 +67,12 @@ h2.h1 {
 
 //make hyperlinks blue for v9
 .content a:not(.btn) {
-    color: #006ac2;
+    color: rgb(1 92 171);
 }
 
 //reduce weight of hyperlink underline
 hy-push-state a {
-    border-bottom: 1px solid;
+    border-bottom: 0.0625rem solid;
 }
 
 //give menu items regular weight for v9

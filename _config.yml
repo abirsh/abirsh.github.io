@@ -88,7 +88,7 @@ accent_color:          rgb(0, 106, 194)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(0, 56, 104)
+theme_color:           rgb(0, 106, 194)
 #theme_color:           rgb(21, 21, 21)
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -98,7 +98,7 @@ theme_color:           rgb(0, 56, 104)
 
 # my regular font combo
 # google_fonts:          Roboto:700|Roboto:400,400i,700,700i
-google_fonts:          Roboto:700|Nunito:400,400i,700,700i
+google_fonts:          Nunito:700|Nunito:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -115,7 +115,7 @@ font:                  Nunito, Helvetica, Arial, sans-serif
 
 # my regular font combo
 # font_heading:          Roboto, Helvetica, Arial, sans-serif
-font_heading:          Roboto, Helvetica, Arial, sans-serif
+font_heading:          Nunito, Helvetica, Arial, sans-serif
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
