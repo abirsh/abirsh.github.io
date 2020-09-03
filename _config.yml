@@ -95,17 +95,26 @@ theme_color:           rgb(0, 56, 104)
 # See: <https://hydejack.com/docs/configuration/>
 # google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
 # google_fonts:          Merriweather:700|PT+Sans:400,400i,700,700i
-google_fonts:          Roboto:700|Roboto:400,400i,700,700i
+
+# my regular font combo
+# google_fonts:          Roboto:700|Roboto:400,400i,700,700i
+google_fonts:          Roboto:700|Nunito:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
 # font:                  Noto Sans, Helvetica, Arial, sans-serif
-font:                  Roboto, Helvetica, Arial, sans-serif
+
+# my regular font combo
+# font:                  Roboto, Helvetica, Arial, sans-serif
+font:                  Nunito, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
 # font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 # font_heading:          Merriweather, Helvetica, Arial, sans-serif
+
+# my regular font combo
+# font_heading:          Roboto, Helvetica, Arial, sans-serif
 font_heading:          Roboto, Helvetica, Arial, sans-serif
 
 defaults:
