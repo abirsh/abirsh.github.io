@@ -37,7 +37,7 @@ p.lead {
 // reduce top margin and weight of headings
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 0; 
-//    font-weight: 500;
+    font-weight: 600;
 }
 
 // change color of h2 - h6 to pitch black
@@ -77,5 +77,5 @@ hy-push-state a {
 
 //give menu items regular weight for v9
 html {
-//    --font-weight-heading: 400;
+    --font-weight-heading: 600;
 }
