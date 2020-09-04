@@ -1,11 +1,14 @@
 ---
 layout: page
 name: index
-title:
+title: Personal Website
 description: >
   Personal Website
 hide_description: true
 ---
+<script type="text/javascript">
+	document.getElementsByClassName("page-title")[0].remove();
+</script>
 <h1 id="about">About Me </h1>
 
 Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
