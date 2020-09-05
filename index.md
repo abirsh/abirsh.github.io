@@ -7,7 +7,7 @@ description: >
 hide_description: true
 ---
 <script type="text/javascript">
-	document.getElementsByClassName("page-title")[0].style.display = "none";
+	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script>
 
 <h2 class="homeheader" id="about">About Me </h2>
