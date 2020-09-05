@@ -34,40 +34,6 @@ p.lead {
     font-size: 1.25rem;
 }
 
-// change font size of all headers
-.f1,h1,.h1 {
-    font-size: 2.5rem;
-    line-height: 1.2;
-}
-
-.f2,h2,.h2 {
-    font-size: 2rem;
-    line-height: 1.3;
-}
-
-.f3,h3,.h3 {
-    font-size: 1.5em;
-    line-height: 1.4;
-}
-
-.f4,h4,.h4,.post-date {
-    font-size: 1.2rem;
-}
-
-.f5,h5,.h5 {
-    font-size: 1.09rem;
-}
-
-.f6,h6,.h6 {
-    font-size: 1.07rem;
-}
-
-// sidebar menu font size
-.sidebar-nav-item {
-    font-size: 1rem;
-}
-
-
 // reduce top margin and weight of headings
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 0; 
@@ -75,12 +41,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 // change color of h3 - h6 to pitch black
-h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
+h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: black;
 }
 
-// change color of h1 and h2 to blue
-h1,h2, .h1,.h2 {
+// change color of h1 to blue
+h1, .h1 {
     color: rgb(1,92,171);
 }
 
