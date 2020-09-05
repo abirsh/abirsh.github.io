@@ -10,7 +10,7 @@ hide_description: true
 	document.getElementsByClassName("page-title")[0].style.display = "none";
 </script>
 
-<h2 class="h1" id="about">About Me </h2>
+<h2 class="homeheader" id="about">About Me </h2>
 
 Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
@@ -21,7 +21,7 @@ My research interests include Human-Computer Interaction, Accessibility and Assi
 I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}.
 
 ---
-<h2 class="h1" id="research">Research </h2>
+<h2 class="homeheader" id="research">Research </h2>
 
 ### Current Projects
 
@@ -45,7 +45,7 @@ In this project sponsored by [Toyota Collaborative Safety Research Center](https
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
 
 ---
-<h2 class="h1" id="about">Publications </h2>
+<h2 class="homeheader" id="about">Publications </h2>
 
 ### Peer-reviewed Conference Papers
 
@@ -67,7 +67,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 
 ---
-<h2 class="h1" id="contact-me">Contact Me </h2>
+<h2 class="homeheader" id="contact-me">Contact Me </h2>
 
 Northwestern University  
 Frances Searle Building  #1-175  
