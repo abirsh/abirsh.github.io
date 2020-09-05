@@ -43,7 +43,7 @@ In this project sponsored by [Toyota Collaborative Safety Research Center](https
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
 
 ---
-<h2 class="homeheader" id="about">Publications </h2>
+<h2 class="homeheader" id="publications">Publications </h2>
 
 <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
