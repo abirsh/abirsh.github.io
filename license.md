@@ -3,15 +3,17 @@ title: LICENSE
 permalink: /license
 ---
 
-## Website content:
+## Website content
 
 All rights reserved by Abir Saha. Reproductions without permission are forbidden!
+
+This website is hosted on [Github Pages - find the source code here](https://github.com/abirsh/abirsh.github.io){:target="_blank"}.
 
 ---
 
 ## Hydejack 
 
-Hydejack requires [placing GPLv3](https://hydejack.com/changelog/#license-change){:target="_blank"} in the repository, so below is a verbatim copy. Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
+This website is powered by the free version of Hydejack. Hydejack requires [placing GPLv3](https://hydejack.com/changelog/#license-change){:target="_blank"} in the repository, so below is a verbatim copy. Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
 ## GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
