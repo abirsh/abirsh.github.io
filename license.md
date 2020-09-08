@@ -3,12 +3,13 @@ title: LICENSE
 permalink: /license
 ---
 
-## Website content
+## Website Content
 
 All rights reserved by Abir Saha. Reproductions without permission are forbidden!
 
+### Credits
 This website is hosted on [Github Pages - find the source code here](https://github.com/abirsh/abirsh.github.io){:target="_blank"}.
-
+The ["Typewriter.js"](https://github.com/tameemsafi/typewriterjs){:target="_blank"} library is licensed under the [MIT License](){:target="_blank"}.
 ---
 
 ## Hydejack 
