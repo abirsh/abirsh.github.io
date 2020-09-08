@@ -23,9 +23,8 @@ Use this add elements to the <body/> of the document.
 
 <!-- reduce font size of tagline and incorporate typewriter.js-->
 <script type="text/javascript">
-  var tagline = document.getElementsByClassName("sidebar-about")[0].children[2];
-  tagline.style.fontSize = "0.87rem";
-  tagline.innerHTML = "<span class='sr-only'>PhD Student in Technology and Social Behavior</span><span id='mytag' aria-hidden='true'></span>";
+  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "0.87rem";
+  document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>PhD Student in Technology and Social Behavior</span><span id='mytag' aria-hidden='true'></span>";
   var typewriter = new Typewriter(mytag, {
     loop: true,
     delay: 55,
