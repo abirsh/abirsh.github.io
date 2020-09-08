@@ -36,7 +36,7 @@ Use this add elements to the <body/> of the document.
   document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>PhD Student in Technology and Social Behavior</span><span id='mytag' aria-hidden='true'></span>";
   document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "0.87rem";
   var typewriter = new Typewriter(mytag, {
-    loop: true,
+    loop: false,
     delay: 55,
     deleteSpeed: 1
   });
