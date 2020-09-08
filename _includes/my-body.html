@@ -21,6 +21,15 @@ Use this add elements to the <body/> of the document.
 }
 </script> -->
 
+<!-- socials and footer Hydejack link open in new tabs -->
+<script type="text/javascript">
+  var len =  document.getElementsByClassName("no-mark-external").length;
+  for (var i = 0 ; i < len; i++) {
+    document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
+  }
+  document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+</script>
+
 <!-- reduce font size of tagline and incorporate typewriter.js-->
 <script type="text/javascript">
   document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "0.87rem";
@@ -34,14 +43,5 @@ Use this add elements to the <body/> of the document.
   .typeString('PhD Student in Technology & Social Behavior')
   .pauseFor(6000)
   .start();
-</script>
-
-<!-- socials and footer Hydejack link open in new tabs -->
-<script type="text/javascript">
-  var len =  document.getElementsByClassName("no-mark-external").length;
-  for (var i = 0 ; i < len; i++) {
-    document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
-  }
-  document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
 </script>
 
