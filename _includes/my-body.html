@@ -21,6 +21,22 @@ Use this add elements to the <body/> of the document.
 }
 </script> -->
 
+<!-- reduce font size of tagline and incorporate typewriter.js-->
+<script type="text/javascript">
+  var tagline = document.getElementsByClassName("sidebar-about")[0].children[2];
+  tagline.style.fontSize = "0.87rem";
+  tagline.innerHTML = "<span class='sr-only'>PhD Student in Technology and Social Behavior</span><span id='mytag' aria-hidden='true'></span>";
+  var typewriter = new Typewriter(mytag, {
+    loop: true,
+    delay: 55,
+    deleteSpeed: 1
+  });
+  typewriter.pauseFor(2000)
+  .typeString('PhD Student in Technology & Social Behavior')
+  .pauseFor(6000)
+  .start();
+</script>
+
 <!-- socials and footer Hydejack link open in new tabs -->
 <script type="text/javascript">
   var len =  document.getElementsByClassName("no-mark-external").length;
@@ -30,7 +46,3 @@ Use this add elements to the <body/> of the document.
   document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
 </script>
 
-<!-- reduce font size of tagline -->
-<script type="text/javascript">
-  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "0.88rem";
-</script>
