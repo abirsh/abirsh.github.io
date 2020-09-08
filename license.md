@@ -1,21 +1,22 @@
 ---
-title: LICENSE
-permalink: /license
+title: Legal
+permalink: /legal
 ---
 
 ## Website Content
 
-All rights reserved by Abir Saha. Reproductions without permission are forbidden!
-
-### Credits
-This website is hosted on [Github Pages - find the source code here](https://github.com/abirsh/abirsh.github.io){:target="_blank"}.
-The ["Typewriter.js"](https://github.com/tameemsafi/typewriterjs){:target="_blank"} library is licensed under the [MIT License](https://github.com/tameemsafi/typewriterjs/blob/master/LICENSE){:target="_blank"}.
+All rights reserved by Abir Saha. Reproductions without permission are forbidden.
 
 ---
 
-## Hydejack 
+## Credits
 
-This website is powered by the free version of Hydejack. Hydejack requires [placing GPLv3](https://hydejack.com/changelog/#license-change){:target="_blank"} in the repository, so below is a verbatim copy. Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
+- This website is hosted on [Github Pages - find the source code here](https://github.com/abirsh/abirsh.github.io){:target="_blank"}.
+- The ["Typewriter.js"](https://github.com/tameemsafi/typewriterjs){:target="_blank"} library is licensed under the [MIT License](https://github.com/tameemsafi/typewriterjs/blob/master/LICENSE){:target="_blank"}.
+- This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
+
+---
+
 ## GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
