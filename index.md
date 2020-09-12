@@ -57,15 +57,17 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
     display: inline;
     text-align: center;
     font-size: 0.95rem;
-    width: 3rem;
-    height: 4rem;
-    padding: 2px;
+    /*width: 3rem;*/
+    /*height: 4rem;*/
+    padding: 4px;
     
     /* line-height: 3rem; */
     
     text-decoration: none;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
     
     /* border-bottom: none; */
   }
@@ -73,6 +75,9 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
   .body-social > ul > li > a:hover {
     color: white;
     background-color: var(--accent-color);
+    border-radius: 5px;
+    padding: 4px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
   }
 </style>
 
