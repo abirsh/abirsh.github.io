@@ -81,7 +81,7 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
     <li> <a href="https://twitter.com/abirsaha_" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> Twitter</a></li>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span class="">Google Scholar</span> </a></li>
     <li> <a href="https://www.linkedin.com/in/abirsaha-" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span class="">LinkedIn</span> </a></li>
-    <li> <a href="https://instagram.com/abirsaha_" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> Instagram</a></li>
+    <li> <a href="https://instagram.com/abirsaha_" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> Instagram</a></li>
   </ul>
 </div>
 
