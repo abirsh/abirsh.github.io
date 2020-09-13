@@ -29,7 +29,7 @@ Use this add elements to the <body/> of the document.
   }
 </script>
 <script type="text/javascript">
-  document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
     document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
   });
 </script>
