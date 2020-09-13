@@ -29,7 +29,9 @@ Use this add elements to the <body/> of the document.
   }
 </script>
 <script type="text/javascript">
-  document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+  });
 </script>
 
 <!-- reduce font size of tagline-->
