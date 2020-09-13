@@ -34,64 +34,12 @@ My research interests include Human-Computer Interaction, Accessibility and Assi
 I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
-<style type="text/css">
-  .body-social > ul {
-    display: inline-block;
-    list-style-type: none;
-    margin-bottom: 0;
-    overflow: hidden;
-    padding: 0;
-  }
-
-  .body-social > ul > li {
-    float: left;
-    
-    /* padding-left: 5px; */
-    padding-right: 10px;
-    
-    /* display: inline-block; */
-  }
-
-
-  .body-social > ul > li > a {
-    display: inline;
-    text-align: center;
-    font-size: 0.95rem;
-    font-weight: 600;
-    /*width: 3rem;*/
-    /*height: 4rem;*/
-    padding: 4px;
-    
-    /* line-height: 3rem; */
-    
-    text-decoration: none;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 5px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-    
-    /* border-bottom: none; */
-  }
-
-  .body-social > ul > li > a:not(.btn):not(.no-hover) {
-    border-color: var(--accent-color);
-  }
-
-  .body-social > ul > li > a:hover {
-    color: white;
-    background-color: var(--accent-color);
-    border-radius: 5px;
-    padding: 4px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-  }
-</style>
-
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://twitter.com/abirsaha_" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> Twitter</a></li>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span class="">Google Scholar</span> </a></li>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span class="">LinkedIn</span> </a></li>
-    <li> <a href="https://instagram.com/abirsaha_" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> Instagram</a></li>
+    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> Twitter</a></li>
+    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span class="">LinkedIn</span> </a></li>
+    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> Instagram</a></li>
   </ul>
 </div>
 
@@ -147,3 +95,55 @@ Frances Searle Building  #1-175
 Evanston, IL 60208, USA
 
 <p><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
+
+<style type="text/css">
+  .body-social > ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .body-social > ul > li {
+    float: left;
+    
+    /* padding-left: 5px; */
+    padding-right: 10px;
+    
+    /* display: inline-block; */
+  }
+
+
+  .body-social > ul > li > a {
+    display: inline;
+    text-align: center;
+    font-size: 0.95rem;
+    font-weight: 600;
+    /*width: 3rem;*/
+    /*height: 4rem;*/
+    padding: 4px;
+    
+    /* line-height: 3rem; */
+    
+    text-decoration: none;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
+    
+    /* border-bottom: none; */
+  }
+
+  .body-social > ul > li > a:not(.btn):not(.no-hover) {
+    border-color: var(--accent-color);
+  }
+
+  .body-social > ul > li > a:hover {
+    color: white;
+    background-color: var(--accent-color);
+    border-radius: 5px;
+    padding: 4px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
+  }
+</style>
