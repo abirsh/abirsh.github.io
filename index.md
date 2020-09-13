@@ -36,10 +36,10 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden>Google Scholar</span><span class="sr-only">Abir Saha's Google Scholar page</span> </a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden>Twitter</span><span class="sr-only">Abir Saha's Twitter profile</span> </a></li>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden>LinkedIn</span><span class="sr-only">Abir Saha's LinkedIn profile</span> </a></li>
-    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden>Instagram</span><span class="sr-only">Abir Saha's Instagram profile</span> </a></li>
+    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar</span><span class="sr-only">Abir Saha's Google Scholar page</span> </a></li>
+    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter</span><span class="sr-only">Abir Saha's Twitter profile</span> </a></li>
+    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn</span><span class="sr-only">Abir Saha's LinkedIn profile</span> </a></li>
+    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram</span><span class="sr-only">Abir Saha's Instagram profile</span> </a></li>
   </ul>
 </div>
 
