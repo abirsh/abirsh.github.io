@@ -89,3 +89,9 @@ h2.h1 {
 html {
     --font-weight-heading: 600;
 }
+
+//gumshoe styling
+#my-awesome-nav li.active a {
+    border-bottom-color: white;
+    text-decoration-color: white;
+}

@@ -28,9 +28,24 @@ Use this add elements to the <body/> of the document.
     document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
   }
 </script>
+
 <script type="text/javascript">
+  var isHome = false;
+  document.getElementById("_drawer--opened").closest("ul").setAttribute("id","my-awesome-nav");
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
     document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+    if (document.getElementsByClassName("home-element").length == 1){
+      var spy = new Gumshoe('#my-awesome-nav a', {
+        reflow: true
+      });
+      isHome = true;
+    }
+  });
+  document.getElementById('_pushState').addEventListener('hy-push-state-ready', function() {
+    if (isHome == true){
+      spy.destroy();
+      isHome = false;
+    }
   });
 </script>
 

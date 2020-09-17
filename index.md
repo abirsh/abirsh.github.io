@@ -23,7 +23,7 @@ hide_description: true
 	}
 </style>
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" class="home-element" id="about">About Me </h2>
 
 Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
