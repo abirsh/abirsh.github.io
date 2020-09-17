@@ -35,9 +35,7 @@ Use this add elements to the <body/> of the document.
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
     document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
     if (document.getElementsByClassName("home-element").length == 1){
-      var spy = new Gumshoe('#my-awesome-nav a', {
-        reflow: true
-      });
+      var spy = new Gumshoe('#my-awesome-nav a');
       isHome = true;
     }
   });
