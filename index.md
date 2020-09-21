@@ -23,8 +23,7 @@ hide_description: true
 	}
 </style>
 
-<div id="about">
-<h2 class="h1" style="color: rgb(1,92,171)">About Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the [Inclusive Technology Lab](http://inclusive.northwestern.edu/){:target="_blank"} with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
 
@@ -34,7 +33,6 @@ My research interests include Human-Computer Interaction, Accessibility and Assi
 
 I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
-</div>
 
 <div class="body-social sidebar-social">
   <ul>
@@ -46,8 +44,7 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
 </div>
 
 ---
-<div id="research">
-<h2 class="h1" style="color: rgb(1,92,171)">Research </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
@@ -67,11 +64,9 @@ In this project, we did a systematic literature review and qualitative coding of
 
 In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
-</div>
 
 ---
-<div id="publications">
-<h2 class="h1" style="color: rgb(1,92,171)">Publications </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
 
 <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
@@ -89,12 +84,10 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
  - Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]
  - Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]
-</div>
 
 
 ---
-<div id="contact-me">
-<h2 class="h1" style="color: rgb(1,92,171)">Contact Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
 Northwestern University  
 Frances Searle Building  #1-175  
@@ -102,7 +95,6 @@ Frances Searle Building  #1-175
 Evanston, IL 60208, USA
 
 <p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
-</div>
 
 <style type="text/css">
   .body-social > ul {
