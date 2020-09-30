@@ -30,26 +30,26 @@ Use this add elements to the <body/> of the document.
 </script>
 
 <script defer type="text/javascript">
-  var spy;
-  var isHome = false;
+  // var spy;
+  // var isHome = false;
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
     document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
-    if (document.getElementsByClassName("home-element").length == 1){
-      document.getElementById("_drawer--opened").closest("ul").setAttribute("id","my-awesome-nav");
-      spy = new Gumshoe('#my-awesome-nav a');
-      isHome = true;
-    }
+    // if (document.getElementsByClassName("home-element").length == 1){
+    //   document.getElementById("_drawer--opened").closest("ul").setAttribute("id","my-awesome-nav");
+    //   spy = new Gumshoe('#my-awesome-nav a');
+    //   isHome = true;
+    // }
   });
 </script>
 
-<script defer type="text/javascript">
+<!-- <script defer type="text/javascript">
   document.getElementById('_pushState').addEventListener('hy-push-state-ready', function() {
     if (isHome == true){
       spy.destroy();
       isHome = false;
     }
   });
-</script>
+</script> -->
 
 <!-- reduce font size of tagline-->
 <!-- incorporate typewriter.js -->
