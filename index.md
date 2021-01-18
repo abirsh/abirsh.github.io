@@ -101,7 +101,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
 Northwestern University  
-Frances Searle Building  #1-175  
+Frances Searle Building  #2-431  
 2240 Campus Drive  
 Evanston, IL 60208, USA
 
