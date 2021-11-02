@@ -29,9 +29,10 @@ Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http:
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
-My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support creative work practices of people with disabilities.  
+My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support computer-based creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-based content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
-I love traveling and photography. Backpacking through Western Europe, New Zealand and Patagonia is on my long-term travel bucket list. I have backpacked across the lovely country called Japan, and I plan to go back again. Through my camera and lens, I try to capture the juxtaposition of architecture, nature and humans as I travel through places and time. 
+I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
+
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
 <div class="body-social sidebar-social">
@@ -39,7 +40,7 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
     <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
     <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://instagram.com/abirsaha_" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
+    <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
   </ul>
 </div>
 
@@ -48,9 +49,9 @@ I love traveling and photography. Backpacking through Western Europe, New Zealan
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisor: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}*
+*Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
 
-In this project, I'm interested in understanding how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I aim to design accessible tools to support their workflow.
+In this project, I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
 
 
 <h3 class="h2">Past Projects</h3>
