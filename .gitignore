@@ -40,5 +40,6 @@ _site
 # Bundler
 /.bundle
 /vendor/bundle
+/vendor/
 
 
