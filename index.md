@@ -25,11 +25,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and Prof. Darren Gergle. 
+Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
+
+My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
-
-My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support computer-based creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-based content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
 I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
@@ -37,10 +37,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div class="body-social sidebar-social">
   <ul>
+    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
     <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
+    <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> -->
   </ul>
 </div>
 
@@ -90,12 +90,12 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
 
 
-<h3 class="h2">Short Paper</h3>
+<h3 class="h2">Short Papers</h3>
 
-<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA.</p></li></ul>
+<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA.</p></li></ul> [Doctoral Consortium]
 
 
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul>
+<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul> [Late-Breaking Work]
   
   
 <h3 class="h2">Patents</h3>
@@ -110,7 +110,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
 Northwestern University  
-Frances Searle Building  #2-431  
+Frances Searle Building  #2-430  
 2240 Campus Drive  
 Evanston, IL 60208, USA
 
