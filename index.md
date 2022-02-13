@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in the Technology and Social Behavior program at Northwestern University.
+  Personal Website of Abir Saha, a PhD student in Technology and Social Behavior at Northwestern University.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
+Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
 
 My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
@@ -92,10 +92,10 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Short Papers</h3>
 
-<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA.</p></li></ul> [Doctoral Consortium]
+<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA. [Doctoral Consortium]</p></li></ul>
 
 
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference.</p></li></ul> [Late-Breaking Work]
+<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference. [Late-Breaking Work]</p></li></ul>
   
   
 <h3 class="h2">Patents</h3>
@@ -110,7 +110,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
 Northwestern University  
-Frances Searle Building  #2-430  
+Frances Searle Building #2-430  
 2240 Campus Drive  
 Evanston, IL 60208, USA
 
