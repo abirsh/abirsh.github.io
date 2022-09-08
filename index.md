@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in Technology and Social Behavior at Northwestern University.
+  Personal Website of Abir Saha, a PhD Candidate in Technology and Social Behavior at Northwestern University.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
+Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper. 
 
 My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
