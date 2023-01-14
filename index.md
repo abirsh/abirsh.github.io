@@ -71,7 +71,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
-* **Abir Saha** and Anne Marie Piper. Understanding Audio Production Practices of People with Vision Impairments. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.   
+* **Abir Saha**, Thomas B. McHugh, and Anne Marie Piper. Understanding Audio Production Practices of People with Vision Impairments. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.   
 
 
 * **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
