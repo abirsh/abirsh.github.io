@@ -23,7 +23,7 @@ hide_description: true
 	}
 </style>
 
-## [CLICK HERE](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf) to download my UX Research Portfolio!
+##  Download my [UX Research Portfolio](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
