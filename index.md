@@ -23,9 +23,9 @@ hide_description: true
 	}
 </style>
 
-##  Download my [UX Research Portfolio](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
+<!-- ##  Download my [UX Research Portfolio](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
 
----
+--- -->
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper. 
@@ -52,7 +52,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <h3 class="h2">Current Projects</h3>
 **ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
+*Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} 
+<!-- and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}* -->
 
 In this project, I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
 
