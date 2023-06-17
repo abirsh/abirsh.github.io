@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD Candidate in Technology and Social Behavior at Northwestern University.
+  Personal Website of Abir Saha, PhD Candidate in Technology and Social Behavior at Northwestern University.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
