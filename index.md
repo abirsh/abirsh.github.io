@@ -52,7 +52,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <h3 class="h2">Current Projects</h3>
 **DESIGNING FOR ACCESSIBILITY IN AUDIO PRODUCTION AMONG BLIND AND LOW VISION PEOPLE**  
-*Dissertation Committee: [Anne Marie Piper (chair)](https://www.ics.uci.edu/~ampiper/){:target="_blank"}, Darren Gergle, Marcelo Worsley, and Shaun Kane 
+*Dissertation Committee: [Anne Marie Piper (chair)](https://www.ics.uci.edu/~ampiper/){:target="_blank"}, Darren Gergle, Marcelo Worsley, and Shaun Kane* 
 <!-- and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}* -->
 
 In this project, I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
