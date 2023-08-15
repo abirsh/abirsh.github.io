@@ -53,7 +53,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <h3 class="h2">Understanding Accessibility in Audio Production</h3>
 The advent of digital audio workstations and other digital audio tools has brought a critical shift in the audio industry by empowering amateur and professional audio content creators with the necessary means to produce high quality audio content. Yet, we know little about the accessibility of widely used audio production tools for blind and low vision people. Through interviews with 18 blind and low vision audio professionals and hobbyists, I found that accessible audio production involves: piecing together accessible and efficient workflows through a combination of mainstream and custom tools; achieving professional competency through a steep learning curve in which domain knowledge and accessibility are inseparable; and facilitating learning and creating access by engaging in online communities of blind audio enthusiasts. I reflected on the deep entanglement between accessibility and professional competency and conclude with design considerations to inform future development of accessible audio production tools.
 <br/>
-**Methods: Contextual inquiry, in-depth interviews**
+<span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews**
 <br/>
 <br/>
 
@@ -61,7 +61,7 @@ The advent of digital audio workstations and other digital audio tools has broug
 <h3 class="h2">Understanding Peer-To-Peer Support Exchange in an Online Community for Blind Audio Producers</h3>
 Exchange of peer-to-peer support in online Q&A communities plays an instrumental role in helping people learn and use complex software tools. While prior work has documented how disabled people support each other in finding accessible practices and workarounds in different contexts, research on understanding their participation in dedicated online Q&A communities has been limited. Through the analysis of 180 conversation threads consisting of 1140 posts in an online text-based Q&A community of blind and low-vision audio producers, I revealed various strategies members in this community use to formulate their queries and provide effective solutions regarding screen reader based navigation of complex graphical user interfaces. I reflected upon my findings to discuss the complexities blind and low-vision software users face in developing a shared understanding during collaborative troubleshooting through textual conversations and reimagine how online Q&A platforms could enhance peer-to-peer instructional support among screen reader users.
 <br/>
-**Methods: Online content analysis**
+<span class="icon-wrench" aria-hidden="true"></span> **Methods: Online content analysis**
 <br/>
 <br/>
 
@@ -69,7 +69,7 @@ Exchange of peer-to-peer support in online Q&A communities plays an instrumental
 <h3 class="h2">Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers</h3>
 Audio production is a skilled practice that requires mastery in highly complex software and hardware tools. Blind audio producers face a steep learning curve where they must learn multiple inaccessible audio production tools in conjunction with workarounds for screen reader support. Learning audio production is made even more challenging due to a scarcity of educational resources geared towards blind people. Grounded in my formative interviews and observations with seven blind audio production instructors, I designed Tutoria11y, an extension for GarageBand to support blind audio producers in creating accessible, interactive tutorials that screen reader users can follow to receive step-by-step guidance and confirmation of their actions. Findings from my design exploration sessions with five blind instructors highlight how Tutoria11y can support tutorial creation and augment tutorial playback for blind audio producers. I discussed how we can rethink technology’s role as a means to amplify, rather than replace, the knowledge of disabled experts.
 <br/>
-**Methods: Observation study, in-depth interviews, usability testing**
+<span class="icon-wrench" aria-hidden="true"></span> **Methods: Observation study, in-depth interviews, usability testing**
 <br/>
 <br/>
 
