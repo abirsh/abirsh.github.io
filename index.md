@@ -53,7 +53,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <h3 class="h2">Understanding Accessibility in Audio Production</h3>
 The advent of digital audio workstations and other digital audio tools has brought a critical shift in the audio industry by empowering amateur and professional audio content creators with the necessary means to produce high quality audio content. Yet, we know little about the accessibility of widely used audio production tools for blind and low vision people. Through interviews with 18 blind and low vision audio professionals and hobbyists, I found that accessible audio production involves: piecing together accessible and efficient workflows through a combination of mainstream and custom tools; achieving professional competency through a steep learning curve in which domain knowledge and accessibility are inseparable; and facilitating learning and creating access by engaging in online communities of blind audio enthusiasts. I reflected on the deep entanglement between accessibility and professional competency and conclude with design considerations to inform future development of accessible audio production tools.
 <br/>
-<span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews**
+
+<!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews** -->
+**Contextual inquiry, in-depth interviews**
+{:.note title="Methods Used"}
 <br/>
 <br/>
 
