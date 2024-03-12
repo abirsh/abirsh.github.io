@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel.com</title>
+</head>
+<body>
+  <div class="header">
+    <img src="logo.png" alt="vector image of a plane with sun and mountains in the background.">
+    <p id="titletext">Travel.com</p>
+  </div>
+  <form>
+    <div class="form-group">
+      <input type="radio" id="round-trip" name="trip-type" value="round-trip" checked>
+      <label for="round-trip">Round Trip </label>
+      <input type="radio" id="one-way" name="trip-type" value="one-way">
+      <label for="one-way">One Way</label>
+    </div>
+    <div class="form-group">
+      <label for="origiin">Origin:</label>
+      <input type="text" id="origin" name="origin" required>
+    </div>
+    <div class="form-group">
+      <label for="destination">Destination:</label>
+      <input type="text" id="destination" name="destination" required>
+    </div>
+    <div class="form-group">
+      <label for="seat-type">Seat Type:</label>
+      <select id="seat-type" name="seat-type">
+        <option value="no_preference" selected>No Preference</option>
+        <option value="window">Window</option>
+        <option value="aisle">Aisle</option>
+      </select>
+    </div>
+    <button type="submit">Search</button>
+  </form>
+</body>
+</html>
+
+<style type="text/css">
+ body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header img {
+  max-width: 200px; /* set max width as needed */
+  height: auto;
+}
+
+form {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"], select {
+  box-sizing: border-box; /* Ensures width includes padding and border */
+  width: 100%; /* or use another width value */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+input[type="radio"], label {
+  display: inline-block;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #46a049;
+}
+
+@media (max-width: 768px) {
+  form {
+    padding: 15px;
+  }
+
+  label, input[type="text"], select {
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+}
+</style>
