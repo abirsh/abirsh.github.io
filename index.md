@@ -28,7 +28,7 @@ hide_description: true
 --- -->
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I am adivsed by Anne Marie Piper (University of California, Irvine). My dissertation committee also includes Darren Gergle (Northwestern), Marcelo Worsley (Northwestern), and Shaun Kane (Google Research).
+Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I am advised by Anne Marie Piper (University of California, Irvine). My dissertation committee also includes Darren Gergle (Northwestern), Marcelo Worsley (Northwestern), and Shaun Kane (Google Research).
 
 My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
